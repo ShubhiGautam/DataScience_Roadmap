@@ -1,2 +1,7 @@
-Use Python YFinance to extract stock price data of Tesla
-Use Tableau to build a japanese candlestick chart and understand how stock prices changed over the years
+# Data Science Roadmap
+
+<p align="center"> 
+<img src="https://cdn-images-1.medium.com/max/1200/1*E1haIGB9K4K89PsFZgm-pw.jpeg" width="600">
+</p>
+
+My roadmap to study Data Science.
